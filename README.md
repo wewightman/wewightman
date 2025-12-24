@@ -3,11 +3,11 @@ Hey there!
 I am a Biomedical Engineering PhD Student at Duke University studying ultrasound imaging systems.
 
 My main areas of interest are...
- - quantitaive biomarkers via aimaging systems
- - novel medical imaging systems
+ - medical imaging
+   - medical ultrasound imaging
+   - medical elasticity imaging
  - equity in medical device design and application
  - equity in higher education
-
 
 - You can reach me through any of the following emails
   - wew12 at duke dot edu
